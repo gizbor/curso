@@ -7,3 +7,5 @@ Esto es un cambio hecho en el master para el rebase. ¿Se aplica al tmp3?
 Esto es otro cambio desde el master, em ptrp commit
 
 Esto es un fix de un problema para arreglar con cherrypick (master)
+
+Esto es otro commit de otra cosa que no necesito que se agrege a tmp3.
