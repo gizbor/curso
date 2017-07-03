@@ -9,3 +9,7 @@ Esto es otro cambio desde el master, em ptrp commit
 Esto es un fix de un problema para arreglar con cherrypick (master)
 
 Esto es otro commit de otra cosa que no necesito que se agrege a tmp3.
+
+Modificacion de 3
+Modificacion conflicto 4 (user 2)
+
