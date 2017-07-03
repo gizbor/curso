@@ -2,9 +2,14 @@ Prueba
 hola
 Modificacion de 2
 
+
 Esto es un cambio hecho en el master para el rebase. ¿Se aplica al tmp3?
 
 Esto es otro cambio desde el master, em ptrp commit
 
 Modificacion de 3
+
+
+Modificacion de 3
+Modificacion conflicto 4 (user 2)
 
